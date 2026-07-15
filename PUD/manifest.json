@@ -1,0 +1,21 @@
+{
+  "name": "Buku Kas Pasar - PUD Pasar Medan",
+  "short_name": "BukuKasPasar",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F4EAD0",
+  "theme_color": "#1F3D2E",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
